@@ -7,6 +7,7 @@ from bson.objectid import ObjectId
 import pytesseract
 from PIL import ImageEnhance, ImageFilter, Image
 import re
+import  pypdf
 from yake import KeywordExtractor
 from pdf2image import convert_from_path, convert_from_bytes
 from pdf2image.exceptions import (
