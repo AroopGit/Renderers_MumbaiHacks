@@ -17,6 +17,11 @@
 - Document Upload
 - Data Encryption
 
+  ![image](https://github.com/user-attachments/assets/d9bff6a0-4e17-4703-8baf-9502a64e9951)
+
+
 Deployed Link- https://advocateai.pages.dev/
+
+![image](https://github.com/user-attachments/assets/a6ab148d-3c7b-4f56-80e5-75f183cb485f)
 
 
